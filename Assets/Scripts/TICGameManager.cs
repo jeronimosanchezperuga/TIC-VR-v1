@@ -16,21 +16,27 @@ public class TICGameManager : MonoBehaviour
 
     public GameObject uiMessageGO;
 
+    public GameObject confetti;
+
     private void Awake()
     {
         Instance = this;
         if (finalPanel != null)
             finalPanel.SetActive(false);
+        controllerText.text = "Encontraste\n" + itemsFound + " de " + totalItems + " carteles.";
+        confetti.SetActive(false);
     }
 
     public void ItemFound(string itemName)
     {
         itemsFound++;
         ShowMessage("En TIC trabajamos con\n" + itemName);
+        controllerText.text = "Encontraste\n" + itemsFound + " de " + totalItems + " carteles.";
 
         if (itemsFound >= totalItems)
         {
             ShowMessage("¡Completaste la búsqueda!");
+            confetti.SetActive(true);
             if (finalPanel != null)
                 finalPanel.SetActive(true);
 

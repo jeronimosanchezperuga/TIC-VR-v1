@@ -1,10 +1,19 @@
 # ninja log v5
+32	1558	7727374054170315	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	be5e997f827cd5ed
 9	1308	7727374051508970	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dce61307d3e985aa
+1634	1747	7727374056158638	C:/Users/jeronimo.sanchez/Documents/GitHub/TIC VR v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6s3n5b2t/obj/arm64-v8a/libgame.so	3539bd7bdef446e9
+0	1384	7727374052340179	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9be08a005e2adf66
 27	1316	7727374051631478	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	303b469bde5ef219
 13	1317	7727374051297583	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dd0e390ff1c1e7b6
 18	1319	7727374051371322	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f06eaf97de3f935
-0	1384	7727374052340179	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9be08a005e2adf66
 22	1539	7727374054006934	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	83a6a7b50efc23b4
-32	1558	7727374054170315	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	be5e997f827cd5ed
 6	1634	7727374054963198	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	423919a30b2ce15f
-1634	1747	7727374056158638	C:/Users/jeronimo.sanchez/Documents/GitHub/TIC VR v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6s3n5b2t/obj/arm64-v8a/libgame.so	3539bd7bdef446e9
+38	9352	7730744249027543	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f06eaf97de3f935
+79	9375	7730744249266698	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dd0e390ff1c1e7b6
+22	9458	7730744250636222	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dce61307d3e985aa
+105	9546	7730744251624614	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	303b469bde5ef219
+10	9840	7730744254990150	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9be08a005e2adf66
+135	10806	7730744264247665	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	83a6a7b50efc23b4
+171	11190	7730744268576214	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	be5e997f827cd5ed
+56	11277	7730744269605963	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	423919a30b2ce15f
+11277	11704	7730744274043282	C:/Users/jeronimo.sanchez/Documents/GitHub/TIC VR v1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6s3n5b2t/obj/arm64-v8a/libgame.so	3539bd7bdef446e9
