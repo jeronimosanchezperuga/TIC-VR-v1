@@ -30,7 +30,7 @@ public class TICGameManager : MonoBehaviour
     public void ItemFound(string itemName)
     {
         itemsFound++;
-        ShowMessage("En TIC trabajamos con\n" + itemName);
+        ShowMessage(itemName);
         controllerText.text = "Encontraste\n" + itemsFound + " de " + totalItems + " carteles.";
 
         if (itemsFound >= totalItems)
