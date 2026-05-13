@@ -1,0 +1,2 @@
+C:\Users\jeronimo.sanchez\Documents\GitHub\TIC-VR-v1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\jeronimo.sanchez\Documents\GitHub\TIC-VR-v1\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
